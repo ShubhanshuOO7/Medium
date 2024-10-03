@@ -1,10 +1,16 @@
 # Medium Clone App
 
-This project is a clone of medium app, a platform where users can write and discover content. The app is built using **react.js** as the front-end framework and integrates features such as user authentication, article creation, and more.
+This project is a clone of a medium app, a platform where users can write and discover content. The app is built using **React.js** as the front-end framework and integrates features such as user authentication, article creation, and more.
+
+## Table of Contents
+
+- [Demo](#demo)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
 
 ## Demo
 
-You can view a live demo of the app [here](https://portfolio-ayush027.vercel.app). (Replace with the actual link to your deployed app)
+You can view a live demo of the app [here](https://portfolio-ayush027.vercel.app). 
 
 ## Features
 
@@ -14,9 +20,9 @@ You can view a live demo of the app [here](https://portfolio-ayush027.vercel.app
 
 ## Tech Stack
 
-- **Frontend**: react.js
+- **Frontend**: [React.js](https://react.dev/)
 - **Backend**: Node.js, Express
-- **Database**: PostgreSQL 
+- **Database**: PostgreSQL
 - **Authentication**: JSON Web Tokens (JWT)
-- **Styling**: Tailwind CSS
+- **Styling**: Tailwind CSS 
 
